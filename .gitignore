@@ -1,0 +1,4 @@
+﻿# Ignore local editor/temp files
+.vscode/
+*.tmp
+*.log

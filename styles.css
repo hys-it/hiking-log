@@ -50,6 +50,9 @@ h1 span { color: var(--ink); font-size: .58em; letter-spacing: -.02em; }
 .notice { margin-top: 25px; padding: 18px 20px; border-left: 5px solid var(--orange); border-radius: 5px 16px 16px 5px; background: #fff3ec; }
 .notice strong { color: #913f22; }
 .notice p { margin: 6px 0 0; color: #6d5146; line-height: 1.65; }
+.download { margin: 24px 0; }
+.download p { margin: 0 0 18px; color: var(--muted); line-height: 1.7; }
+.download .button + .button { margin-left: 10px; }
 
 .details { padding: 58px 0 30px; }
 .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; margin-top: 20px; }
@@ -69,6 +72,7 @@ footer p { margin: 4px 0; }
   .card { border-radius: 22px; }
   .grid { grid-template-columns: 1fr; }
   .button { width: 100%; }
+  .download .button + .button { margin: 10px 0 0; }
 }
 
 @media (prefers-reduced-motion: reduce) {

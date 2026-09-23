@@ -47,5 +47,6 @@ HYS 同時提供 GPX View Android App 的公開封閉測試資訊：
 
 - Google 測試群組：<https://groups.google.com/g/gpxview-tw-testers>
 - Google Play 封測頁：<https://play.google.com/apps/testing/ctliaw.gpxview.tw>
+- Android ARM64 APK：<https://hys-it.github.io/hiking-log/downloads/TaiwanGpxMap-v1.1-arm64-v8a.apk>
 
 本網站為純靜態頁面，不收集或保存訪客的 Email。
